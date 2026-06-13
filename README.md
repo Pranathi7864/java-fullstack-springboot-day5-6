@@ -5,7 +5,7 @@ This repository contains the Spring Boot practice project completed during Day 5
 ## Topics Covered
 
 - Spring Boot project setup
-- Maven project structure
+- Maven, Gradle individual project structure
 - REST API basics
 - `@RestController`
 - `@GetMapping`
@@ -20,6 +20,7 @@ This repository contains the Spring Boot practice project completed during Day 5
 - Java
 - Spring Boot
 - Maven
+- Gradle
 - IntelliJ IDEA
 - Postman
 
